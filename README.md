@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saraphina1
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning how to code 
-- 💞️ I’m looking to collaborate with programmers
+- 👀 I’m a Frontend Developer
+- 🌱 I’m open to Frontend jobs
+- 💞️ I’m looking to collaborate with other Developers
 
 <!---
 saraphina1/saraphina1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
